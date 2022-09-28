@@ -127,6 +127,7 @@ keywords: "Daisy, kopycienski, marist, college, cybersecurity"
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#f5f7ed"
+navbar-hover-col: "#c5d095"
 navbar-text-col: "#697736"
 navbar-border-col: "#DDDDDD"
 page-col: "#659DBD"
