@@ -3,8 +3,8 @@ layout: post
 title: Lesson 2
 subtitle: Deeper Dive into Development
 cover-img: /assets/img/blog2.jpeg
-thumbnail-img: /assets/img/vscode.png
-share-img: /assets/img/vscode.jpg
+thumbnail-img: /assets/img/vscode.jpeg
+share-img: /assets/img/vscode.jpeg
 tags: [IDE, Git, Terminal]
 ---
 
