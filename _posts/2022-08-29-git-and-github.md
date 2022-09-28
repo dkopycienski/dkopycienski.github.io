@@ -13,7 +13,7 @@ Lesson 1 was an introduction to system design and allowed us to get more comfort
 ## Lesson Objectives
 - Git
 - Github
-- Difference between Git and Githuh
+- Difference between Git and Github
 - Repositories
 - Branches
 - Pulls and Pushes
