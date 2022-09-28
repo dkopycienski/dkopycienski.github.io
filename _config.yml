@@ -23,8 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Blogs:
     - Lesson 1: "https://dkopycienski.github.io/2022-08-29-git-and-github"
-    - Lesson 2: "https://dkopycienski.github.io/blog2"
-    - Lesson 3: "https://dkopycienski.github.io/blog3"
+    - Lesson 2: "https://dkopycienski.github.io/2022-09-05-development"
+    - Lesson 3: "https://dkopycienski.github.io/2022-09-12-frameworks"
   Resume: "https://dkopycienski.github.io/resume"
 
 ################
