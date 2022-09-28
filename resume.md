@@ -12,8 +12,8 @@ Marist college student
 
 ## Education
 
-**Marist College** \ 
-Poughkeepsie, NY \ 
+**Marist College**   \
+Poughkeepsie, NY   \
 `August 2021 - Present`  \
 GPA: 3.959  \
 Private liberal arts college. Currently enrolled, Bachelor of Science in Cybersecurity with minors in CS, IT, and IS. Expected graduation May 2024.
