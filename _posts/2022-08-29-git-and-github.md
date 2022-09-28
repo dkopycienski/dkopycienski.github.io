@@ -5,7 +5,7 @@ subtitle: Git and Github
 cover-img: /assets/img/blog1bg.jpeg
 thumbnail-img: /assets/img/git.png
 share-img: /assets/img/git.jpg
-tags: [books, test]
+tags: [computersciece, systemdesign, repository, ]
 ---
 
 Lesson 1 was an introduction to system design and allowed us to get more comfortable for tools used my designers. 
@@ -23,6 +23,7 @@ Lesson 1 was an introduction to system design and allowed us to get more comfort
 
 
 ## Helpful Videos
-[IBM: Git Vs. Github](https://youtu.be/wpISo9TNjfU)
-[GitHub: What is GitHub](https://youtu.be/w3jLJU7DT5E)
+[IBM Git Vs. Github](https://youtu.be/wpISo9TNjfU)
+
+[GitHub What is GitHub](https://youtu.be/w3jLJU7DT5E)
 
