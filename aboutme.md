@@ -4,7 +4,12 @@ title: About me
 subtitle: Marist College Student: Class of 2024
 ---
 
-![Daisy Kopycienski](assets/img/cd-142.jpg)
+
+
+
+
+
+
 
 My name is Daisy Kopycienski. I am a cybersecurity major with CS, IS, and IT minors.
 My hobbies and interests include :
@@ -16,6 +21,8 @@ My hobbies and interests include :
 - Yoga and dance
 - Reading
 - Movies
+
+![Daisy Kopycienski](assets/img/cd-142.jpg)
 
 ### Campus Involvement 
 
