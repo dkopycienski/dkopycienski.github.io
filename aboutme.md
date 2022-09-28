@@ -4,7 +4,7 @@ title: About me
 subtitle: Marist College Student: Class of 2024
 ---
 
-![Photo Daisy Kopycienski](assets/img/cd-142.jpg)
+<img src="assets/img/cd-142.jpg" alt="Photo Daisy Kopycienski" width="200"/>
 
 My name is Daisy Kopycienski. I am a cybersecurity major with CS, IS, and IT minors.
 My hobbies and interests include :
@@ -19,6 +19,6 @@ My hobbies and interests include :
 
 ### Campus Involvement 
 
-At Marist, I am a peer tutor for math and computer science students, SEED club participant, and honors student. In the Spring of 2023 I plan on studying abroad in Dublin, Ireland at Trinity College. 
+At Marist, I am a peer tutor for math and computer science courses, SEED club participant, and honors student. In the Spring of 2023 I plan on studying abroad in Dublin, Ireland at Trinity College. 
 
 Explore more at [My Resume](/resume). 
