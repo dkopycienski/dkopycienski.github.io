@@ -15,7 +15,7 @@ My hobbies and interests include :
 - Reading
 - Movies
 
-![Daisy Kopycienski](assets/img/cd-142.jpg)
+![Daisy Kopycienski](assets/img/cd-142.jpg){: .mx-auto.d-block :}
 
 ### Campus Involvement 
 
