@@ -9,7 +9,7 @@ tags: [IDE, Git, Terminal]
 ---
 
 
-Lesson 1 was an *introduction* to system design and the lesson dove deeper into being a developer and working with developers. It went over the setup and choices made when setting up your development environement and the different tool options.
+Lesson 1 was an *introduction* to system design and this lesson dove deeper into the details of being a developer and working with developers. It went over the setup and choices made when setting up your development environement and the different tool options.
 
 ## Lesson Objectives
 - IDEs
