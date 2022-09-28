@@ -12,7 +12,7 @@ tags: [webdesign, server, static, dynamic]
 This lesson introduced the idea of frameworks, the different kinds of frameworks out there, and how to choose the best one for your own custom application.
 
 	Batteries included
-: Framework with lots of building block included. Less customizable, but quicker to build. 
+: Framework with lots of building blocks included. 
 
 ## Frameworks
 - Django
