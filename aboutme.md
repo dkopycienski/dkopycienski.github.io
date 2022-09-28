@@ -2,7 +2,8 @@
 layout: page
 title: About me
 subtitle: Marist College Student: Class of 2024
----
+
+--- 
 
 
 
