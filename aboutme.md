@@ -1,16 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Marist College Student: Class of 2024
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+![Photo Daisy Kopycienski](assets/img/cd-142.jpg)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Daisy Kopycienski. I am a cybersecurity major with CS, IS, and IT minors.
+My hobbies and interests include :
 
-What else do you need?
+- Cooking and baking
+- Outdoor activities
+- Crocheting
+- Watercolor painting 
+- Yoga and dance
+- Reading
+- Movies
 
-### My story
+### Campus Involvement 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+At Marist, I am a peer tutor for math and computer science students, SEED club participant, and honors student. In the Spring of 2023 I plan on studying abroad in Dublin, Ireland at Trinity College. 
+
+Explore more at [My Resume](/resume). 
