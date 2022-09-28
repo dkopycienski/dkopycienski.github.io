@@ -485,7 +485,7 @@ footer .footer-custom-content {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #808080;
+  color: #404040;
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
@@ -812,7 +812,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   padding: 0.625rem 0.3125rem;
   background-color: #FFF;
   border-radius: 0;
-  color: {{ site.text-col | default: "#404040" }};
+  color: {{ site.hover-col | default: "#404040" }};
 }
 @media (min-width: 768px) {
   .pagination .page-item .page-link {
@@ -822,8 +822,8 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 .pagination .page-item .page-link:hover,
 .pagination .page-item .page-link:focus {
   color: #FFF;
-  border: 1px solid {{ site.hover-col | default: "#0085A1" }};
-  background-color: {{ site.hover-col | default: "#0085A1" }};
+  border: 1px solid {{ site.text-col | default: "#0085A1" }};
+  background-color: {{ site.text-col | default: "#0085A1" }};
 }
 
 /* --- Tables --- */
@@ -838,7 +838,7 @@ table tr {
   padding: 0;
 }
 table tr:nth-child(2n) {
-  background-color: #f8f8f8;
+  background-color: #999999;
 }
 table tr th {
   font-weight: bold;
