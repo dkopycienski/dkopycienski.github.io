@@ -20,7 +20,7 @@ author: Daisy Kopycienski
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "/aboutme"
   Blogs:
     - Lesson 1: "/2022-08-29-git-and-github"
     - Lesson 2: "/2022-09-05-development"
