@@ -42,7 +42,7 @@ jobs:
               ssh -o StrictHostKeyChecking=no circleci@148.100.79.63 "sudo touch /tmp/testing.txt"
        - attach_workspace:
           at: ./
-       - run: sudo scp -r _site circleci@148.100.79.63
+       - run: sudo scp -r /_site circleci@148.100.79.63
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
 workflows:
