@@ -24,7 +24,7 @@ jobs:
           root: .
           paths:
             - _site/*
-      - run: sudo scp -r _site circleci@148.100.79.63:daisykopy
+      - run: sudo scp -r _site circleci@148.100.79.63
 
 
 
@@ -40,8 +40,8 @@ jobs:
             name: Deploy Over SSH
             command: |
               ssh -o StrictHostKeyChecking=no circleci@148.100.79.63 "sudo touch /tmp/testing.txt"
-            attach_workspace:
-              at: ./
+       - attach_workspace:
+          at: ./
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
 workflows:
