@@ -15,7 +15,7 @@ jobs:
     steps:
       - checkout
       - run: ruby --version
-      - run: gem install jekyll bundler
+      # - run: gem install jekyll bundler
       - run: bundle init
       - run: bundle add webrick
       - run: bundle exec jekyll build
