@@ -24,8 +24,8 @@ jobs:
           root: .
           paths:
             - _site/*
-      - run: sudo scp -r /home/circleci/project/_site circleci@148.100.79.63:site
-      
+      - run: sudo scp -r _site circleci@148.100.79.63:site
+
 
 
   deploy:
