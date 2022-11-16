@@ -25,6 +25,7 @@ jobs:
           paths:
             - _site/*
       - run: sudo scp -r _site circleci@148.100.79.63
+      
 
 
 
