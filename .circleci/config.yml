@@ -23,7 +23,7 @@ jobs:
           root: .
           paths:
             - _site/*
-      - run: sudo scp -ri SystemDesign/SysDesCloudKey.pem _site circleci@148.100.79.63:daisykopy
+      - run: sudo scp -r _site circleci@148.100.79.63:daisykopy
 
 
   deploy:
