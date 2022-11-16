@@ -4,7 +4,7 @@ title: Lesson 1
 subtitle: Git and Github
 cover-img: /assets/img/blog1bg.jpeg
 thumbnail-img: /assets/img/git.png
-share-img: /assets/img/git.jpg
+share-img: /assets/img/git.png
 tags: [computersciece, systemdesign, repository, ]
 ---
 
