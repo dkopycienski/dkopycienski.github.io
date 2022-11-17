@@ -43,6 +43,8 @@ jobs:
 workflows:
     build-and-deploy:
       jobs:
-          - build
-          - deploy
+        - build
+        - deploy:
+            requires:
+            - build # only deploy once build job has completed
 
