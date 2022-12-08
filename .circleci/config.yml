@@ -33,7 +33,7 @@ jobs:
     steps:
        - add_ssh_keys:
           fingerprints:
-            - "03:d1:23:88:ad:8e:af:0c:96:d9:29:d2:60:d4:86:f9"
+            - "de:28:17:4f:f7:85:74:25:e4:6f:00:6d:00:6c:fd:c9"
        - attach_workspace:
           at: ./
        - run: scp -r /home/circleci/project/_site circleci@148.100.108.143:/var/www/mysite
