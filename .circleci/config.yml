@@ -36,7 +36,8 @@ jobs:
             - "03:d1:23:88:ad:8e:af:0c:96:d9:29:d2:60:d4:86:f9"
        - attach_workspace:
           at: ./
-       - run: scp -r /home/circleci/project/_site circleci@148.100.108.143:/var/www/mysite
+       - run: scp -r /home/circleci/project/_site circleci@148.100.108.143
+       #/var/www/mysite
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
